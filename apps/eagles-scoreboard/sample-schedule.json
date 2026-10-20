@@ -1,0 +1,21 @@
+{
+  "_note": "SAMPLE DATA - the opponents are real Section 8A schools but every score and date here is made up. Replace the games with the real schedule.",
+  "school": "Sacred Heart",
+  "mascot": "Eagles",
+  "games": [
+    {"sport": "VB", "date": "2026-09-29", "where": "home", "opp": "Fosston",         "us": 3, "them": 0},
+    {"sport": "VB", "date": "2026-10-06", "where": "away", "opp": "Stephen-Argyle",  "us": 3, "them": 2},
+    {"sport": "VB", "date": "2026-10-13", "where": "home", "opp": "Climax-Fisher",   "us": 3, "them": 1},
+    {"sport": "VB", "date": "2026-10-15", "where": "away", "opp": "Bagley",          "us": 1, "them": 3},
+    {"sport": "VB", "date": "2026-10-22", "where": "home", "opp": "Red Lake County", "time": "7:00 PM"},
+    {"sport": "VB", "date": "2026-10-27", "where": "away", "opp": "Win-E-Mac",       "time": "7:15 PM"},
+
+    {"sport": "FB", "date": "2026-10-02", "where": "away", "opp": "Warren-Alvarado-Oslo", "us": 28, "them": 14},
+    {"sport": "FB", "date": "2026-10-09", "where": "home", "opp": "Blackduck",            "us": 35, "them": 7},
+    {"sport": "FB", "date": "2026-10-16", "where": "away", "opp": "Win-E-Mac",            "us": 14, "them": 21, "note": "OT"},
+    {"sport": "FB", "date": "2026-10-22", "where": "home", "opp": "Lake of the Woods",    "time": "7:00 PM"},
+
+    {"sport": "BBB", "date": "2026-12-01", "where": "home", "opp": "Kittson County Central", "time": "7:30 PM"},
+    {"sport": "GBB", "date": "2026-12-01", "where": "away", "opp": "Kittson County Central", "time": "6:00 PM"}
+  ]
+}
